@@ -1,4 +1,10 @@
- # TDSP Project Structure, and Documents and Artifact Templates
+ # Do investors value LSEG as an exchange provider or as a data player?
+ 
+ ## Scope
+ 
+ The project aims to analyse if the LSEG share price is discounted versus their public listed peers following the impact of major macroeconomic events/forecasts. The objective is to better understand how the market views LSEG, whether as an exchange or a data player. The project will consolidate data sources, identify logical tests, and discuss how to present the output. 
+ 
+ ## TDSP project structure. 
 
 This is a general project directory structure for Team Data Science Process developed by Microsoft. It also contains templates for various documents that are recommended as part of executing a data science project when using TDSP. 
 
